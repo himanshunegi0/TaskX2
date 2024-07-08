@@ -1,5 +1,5 @@
 
-# NexStep: Enhanced React Productivity Dashboard: Habit Tracker, To-Do List & Pomodoro Timer
+# Taskx: Enhanced React Productivity Dashboard: Habit Tracker, To-Do List & Pomodoro Timer
 
 Enhanced React Productivity Dashboard combines a Habit Tracker, To-Do List, and Pomodoro Timer into a single, streamlined application. Designed for efficiency and ease of use, it's the perfect tool for anyone looking to improve their productivity and focus. 
 
