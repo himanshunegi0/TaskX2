@@ -38,16 +38,6 @@ Enhanced React Productivity Dashboard combines a Habit Tracker, To-Do List, and 
 - Material-UI
 
   
-## Installation
 
-To get started with NexStep:
-
-```bash
-git clone https://github.com/HitaBeeDev/wellNest.git
-cd NexStep
-npm install
-```
-    
-```bash
 npm start
 ```
